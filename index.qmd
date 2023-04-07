@@ -1,6 +1,7 @@
 ---
-title: "test2"
+title: "Dr. Elvis Elli"
 listing:
+ - id: publications
   contents: posts
   sort: "date desc"
   type: default
