@@ -1,18 +1,21 @@
 project:
   type: website
-  output-dir: docs
-
+  preview:
+    browser: true
+    
 website:
   title: "Elvis Elli"
   navbar:
     right:
-      - about.qmd
+      #- about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/ElvisElli
       - icon: twitter
-        href: https://twitter.com
-        - text: Projects
-        - text: Publications
+        href: https://twitter.com/Elli_EF
+      - text: Projects
+        href: Projects/about.qmd
+      - text: Publications
+        href: Publications/about.qmd
 format:
   html:
     theme: cosmo

@@ -1,15 +1,17 @@
 ---
 title: "Dr. Elvis Elli"
 listing:
- - id: publications
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  - id: projects
+    contents: index.qmd
+    type: grid
+    fields: [image, title]
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    page-size: 3
+    image-height: 15em
 ---
 
-#**Welcome!!**
+\#**Welcome!!**
+
+\#**Projects**
