@@ -1,0 +1,28 @@
+---
+title: "Welcome to our team!"
+editor: visual
+page-layout: full
+execute: 
+  freeze: auto
+---
+
+# Elvis Elli
+
+::: columns
+::: {.column width="30%"}
+![](ElvisElli.jpeg)
+:::
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="60%"}
+-   Post-Doc, Cropping Systems Modeling & Crop Physiology - Iowa State University, USA (2020-2023)
+-   Ph.D. in Agricultural Systems Engineering - University of São Paulo, Brazil (2016-2020)
+-   Research Scholar, Crop modeling - CSIRO, Australia (2018-2019)
+-   M.S. in Agronomy, Agriculture, and Environment - Federal University of Santa Maria, Brazil (2015-2016)
+-   B.S in Agronomy - Federal University of Santa Maria, Brazil (2010-2015)
+:::
+:::
+
+------------------------------------------------------------------------

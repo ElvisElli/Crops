@@ -5,20 +5,25 @@ project:
     
 website:
   title: "Elvis Elli"
+  page-footer: 
+    right: "This Website was created by Elvis F. Elli with [Quarto](https://quarto.org/)"
   navbar:
     right:
       #- about.qmd
-      - icon: github
-        href: https://github.com/ElvisElli
-      - icon: twitter
-        href: https://twitter.com/Elli_EF
+      - text: Team
+        href: Team/about.qmd
       - text: Projects
         href: Projects/about.qmd
       - text: Publications
         href: Publications/about.qmd
+      - icon: github
+        href: https://github.com/ElvisElli
+      - icon: twitter
+        href: https://twitter.com/Elli_EF
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lux
     css: styles.css
 
 editor: visual
