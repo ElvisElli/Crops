@@ -1,0 +1,9 @@
+---
+title: "Climate Change"
+author: "Elvis F. Elli"
+date: "2023-04-01"
+categories: [Research, Extension]
+image: "soybeans-drought.jpeg"
+---
+
+Crop simulation modeling has been used to help identifying traits of interest to cop with climate change issues

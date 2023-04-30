@@ -1,7 +1,7 @@
 ---
-title: "Dr. Elvis Elli"
+title: "Welcome to our Website!"
 listing:
-  - id: projects
+  - id: test
     contents: index.qmd
     type: grid
     fields: [image, title]
@@ -12,6 +12,4 @@ listing:
     image-height: 15em
 ---
 
-\#**Welcome!!**
-
-\#**Projects**
+**Latest Research Highlights**

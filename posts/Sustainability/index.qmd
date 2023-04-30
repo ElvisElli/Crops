@@ -1,0 +1,11 @@
+---
+title: "Sustainability"
+author: "Elvis F. Elli"
+date: "2023-04-01"
+categories: [Research, Extension]
+image: "FloodedSoybean.jpg"
+---
+
+Tradeoffs between crop yields and sustainability challenges
+
+![Soil water availability vs systems variables](FloodedSoybean.jpg){fig-align="center"}

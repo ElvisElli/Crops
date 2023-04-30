@@ -1,11 +1,12 @@
 ---
-title: "Welcome To My Blog"
+title: "Join our Team"
 author: "Tristan O'Malley"
 date: "2023-03-29"
 categories: [news]
+image: "thumbnail.jpg"
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Be part of a proactive, diverse, and fun research group!
 
 ![](thumbnail.jpg)
 
