@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to our Website!",
+    "objectID": "Team/about.html",
+    "href": "Team/about.html",
+    "title": "Welcome to our team!",
     "section": "",
-    "text": "Latest Research Highlights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin our Team\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Opportunities/index.html",
-    "href": "posts/Opportunities/index.html",
-    "title": "Join our Team",
-    "section": "",
-    "text": "Be part of a proactive, diverse, and fun research group!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/Sustainability/index.html",
-    "href": "posts/Sustainability/index.html",
-    "title": "Sustainability",
-    "section": "",
-    "text": "Tradeoffs between crop yields and sustainability challenges\n\n\n\nSoil water availability vs systems variables"
-  },
-  {
-    "objectID": "posts/Climate Change/index.html",
-    "href": "posts/Climate Change/index.html",
-    "title": "Climate Change",
-    "section": "",
-    "text": "Crop simulation modeling has been used to help identifying traits of interest to cop with climate change issues"
+    "text": "Elvis F. Elli\n\n\n\n\n\n\n\nPost-Doc, Cropping Systems Modeling & Crop Physiology - Iowa State University, USA (2020-2023)\nPh.D., Agricultural Systems Engineering - University of São Paulo, Brazil (2016-2020)\nResearch Scholar, Crop modeling - CSIRO, Australia (2018-2019)\nM.S., Agronomy, Agriculture, and Environment - Federal University of Santa Maria, Brazil (2015-2016)\nB.S., Agronomy - Federal University of Santa Maria, Brazil (2010-2015)"
   },
   {
     "objectID": "Projects/about.html",
@@ -35,17 +14,38 @@
     "text": "About this blog"
   },
   {
+    "objectID": "posts/Opportunities/index.html",
+    "href": "posts/Opportunities/index.html",
+    "title": "Join our Team",
+    "section": "",
+    "text": "Be part of a proactive, diverse, and fun research group!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to our Website!!",
+    "section": "",
+    "text": "Latest Research Highlights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Change\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin our Team\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Climate Change/index.html",
+    "href": "posts/Climate Change/index.html",
+    "title": "Climate Change",
+    "section": "",
+    "text": "Crop simulation modeling has been used to help identifying traits of interest to cop with climate change issues"
+  },
+  {
+    "objectID": "posts/Sustainability/index.html",
+    "href": "posts/Sustainability/index.html",
+    "title": "Sustainability",
+    "section": "",
+    "text": "Tradeoffs between crop yields and sustainability challenges\n\n\n\nSoil water availability vs systems variables"
+  },
+  {
     "objectID": "Publications/about.html",
     "href": "Publications/about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "Team/about.html",
-    "href": "Team/about.html",
-    "title": "Welcome to our team!",
-    "section": "",
-    "text": "Elvis Elli\n\n\n\n\n\n\n\nPost-Doc, Cropping Systems Modeling & Crop Physiology - Iowa State University, USA (2020-2023)\nPh.D. in Agricultural Systems Engineering - University of São Paulo, Brazil (2016-2020)\nResearch Scholar, Crop modeling - CSIRO, Australia (2018-2019)\nM.S. in Agronomy, Agriculture, and Environment - Federal University of Santa Maria, Brazil (2015-2016)\nB.S in Agronomy - Federal University of Santa Maria, Brazil (2010-2015)"
   }
 ]
